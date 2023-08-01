@@ -22,5 +22,6 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </p>
+<p>Thymeleaf</p>
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tiagoeuzebiocordeiro&show_icons=true&locale=en" alt="tiagoeuzebiocordeiro" />
