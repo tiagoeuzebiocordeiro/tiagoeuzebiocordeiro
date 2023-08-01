@@ -23,5 +23,6 @@
   <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </p>
 <p>Thymeleaf</p>
+<h4>Dê uma olhada nos meus repositórios fixados e nos demais repositórios! :)</h4>
 
 <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tiagoeuzebiocordeiro&show_icons=true&locale=en" alt="tiagoeuzebiocordeiro" />
