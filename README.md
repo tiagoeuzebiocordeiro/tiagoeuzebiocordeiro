@@ -1,5 +1,5 @@
-<h1 align="center">Olá, me chamo Tiago</h1>
-<h3 align="center">Estagiário de T.I e estudante de programação</h3>
+<h1 align="center">Olá, me chamo Tiago :)</h1>
+<h3 align="center">Suporte e Desenvolvimento de Software</h3>
 
 <h3 align="left">Conecte-se comigo no LinkedIn:</h3>
 <p align="left">
