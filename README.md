@@ -1,6 +1,3 @@
-<h1 align="center">Olá! Me chamo Tiago!</h1>
-<h3 align="center">Suporte e Desenvolvimento de Software</h3>
-
 <h3 align="left">Conecte-se comigo no LinkedIn:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tiago-euz%c3%a9bio-cordeiro-927165224/" target="blank">
