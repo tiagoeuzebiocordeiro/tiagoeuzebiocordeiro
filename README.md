@@ -7,9 +7,7 @@
 
 <h3 align="left">Tecnologias:</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,mysql,postman,spring,,js&theme=light)](https://skillicons.dev)
+ASP.NET, MVC, REST, Java, C#, JavaScript, SQL Server, MySQL, JavaScript, Docker
 </p>
-<p>Thymeleaf</p>
-<h4>Dê uma olhada nos meus repositórios fixados e nos demais repositórios! :)</h4>
 
-<img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tiagoeuzebiocordeiro&show_icons=true&locale=en" alt="tiagoeuzebiocordeiro" />
+<h4>Dê uma olhada nos meus repositórios fixados e nos demais repositórios! :)</h4>
