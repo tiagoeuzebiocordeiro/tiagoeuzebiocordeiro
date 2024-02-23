@@ -1,13 +1,13 @@
-<h3 align="left">Conecte-se comigo no LinkedIn:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/tiago-euz%c3%a9bio-cordeiro-927165224/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiago-euz%c3%a9bio-cordeiro-927165224/" height="30" width="40" />
-  </a>
-</p>
+# Sobre
+Olá, me chamo Tiago. Atualmente sou estudante de graduação em Análise e Desenvolvimento de Sistemas.
+Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET), MySQL, SQL Server, Angular.
+Tenho experiência em mais de 1 ano como Suporte em TI.
+Atualmente, estou para começar em um cargo de estagiário de desenvolvimento (março-2024).
 
-<h3 align="left">Tecnologias:</h3>
-<p align="left">
-ASP.NET, MVC, REST, Java, C#, JavaScript, SQL Server, MySQL, JavaScript, Docker
-</p>
+# Contato
+E-mail: tiagoeuzebiocordeiro.ti@gmail.com
+Tel.: +55 (85) 98413-6063
+Linkedin: <a href="https://www.linkedin.com/in/tiago-euz%C3%A9bio-cordeiro-927165224/">Clique aqui</a>
 
-<h4>Dê uma olhada nos meus repositórios fixados e nos demais repositórios! :)</h4>
+# Projetos
+Aqui ponho meus estudos e projetos, favor verificar a sessão de repositórios e os repositórios fixados.
