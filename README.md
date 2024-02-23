@@ -1,12 +1,18 @@
 # Sobre
 Olá, me chamo Tiago. Atualmente sou estudante de graduação em Análise e Desenvolvimento de Sistemas.
-Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET), MySQL, SQL Server, Angular.
+<br/>
 Tenho experiência em mais de 1 ano como Suporte em TI.
+<br/>
 Atualmente, estou para começar em um cargo de estagiário de desenvolvimento (março-2024).
+
+# Tecnologias
+Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET), MySQL, SQL Server, Angular.
 
 # Contato
 E-mail: tiagoeuzebiocordeiro.ti@gmail.com
+<br/>
 Tel.: +55 (85) 98413-6063
+<br/>
 Linkedin: <a href="https://www.linkedin.com/in/tiago-euz%C3%A9bio-cordeiro-927165224/">Clique aqui</a>
 
 # Projetos
