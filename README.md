@@ -3,7 +3,7 @@ Olá, me chamo Tiago. Atualmente sou estudante de graduação em Análise e Dese
 <br/>
 Tenho experiência em mais de 1 ano como Suporte em TI.
 <br/>
-Atualmente, estou para começar em um cargo de estagiário de desenvolvimento (março-2024).
+Atuo como estagiário de desenvolvimento de software.
 
 # Tecnologias
 Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET), MySQL, SQL Server, Angular.
