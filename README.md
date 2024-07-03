@@ -4,6 +4,8 @@ Olá, me chamo Tiago. Atualmente sou estudante de graduação em Análise e Dese
 Tenho experiência em mais de 1 ano como Suporte em TI.
 <br/>
 Atuo como estagiário de desenvolvimento de software.
+<br/>
+Idiomas: Português (fluente/nativo) e Inglês(intermediário).
 
 # Tecnologias
 Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET), MySQL, SQL Server, Angular.
