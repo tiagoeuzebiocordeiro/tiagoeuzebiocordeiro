@@ -15,7 +15,7 @@ E-mail: tiagoeuzebiocordeiro.ti@gmail.com
 <br/>
 Tel.: +55 (85) 98413-6063
 <br/>
-Linkedin: <a href="https://www.linkedin.com/in/tiagoeuzebiocordeiro">Clique aqui</a>
+Linkedin: <a href="https://www.linkedin.com/in/tiagoecordeiro">Clique aqui</a>
 
 # Projetos
 Aqui ponho meus estudos e projetos, favor verificar a sessão de repositórios e os repositórios fixados.
