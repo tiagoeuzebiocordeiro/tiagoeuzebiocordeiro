@@ -1,21 +1,19 @@
-# Sobre
-Olá, me chamo Tiago. Atualmente sou estudante de graduação em Análise e Desenvolvimento de Sistemas.
+# About
+Hello, my name is Tiago. I have a degree in Systems Analysis and Development, by Estácio de Sá university.
 <br/>
-Tenho experiência em mais de 1 ano como Suporte em TI.
+I work as a Junior Systems Analyst, focusing on .NET, Angular, and ERP technologies.
 <br/>
-Atuo como Analista de Sistemas Júnior, com foco nas tecnologias .NET, Angular e ERPs.
-<br/>
-Idiomas: Português (fluente/nativo) e Inglês(intermediário).
+Languages: Portuguese (fluent/native) and English (intermediate).
 
-# Tecnologias
-Possuo conhecimento nas seguintes tecnologias: C#, Java, Spring Boot, .NET (ASP.NET e WebAPIs), MySQL, SQL Server, Angular.
+# Tech Stack
+I have knowledge in the following technologies: C#, Java, Spring Boot, .NET (ASP.NET and Web APIs), MySQL, SQL Server, Angular.
 
-# Contato
+# Contact
 E-mail: tiagoeuzebiocordeiro.ti@gmail.com
 <br/>
-Tel.: +55 (85) 98413-6063
+Brazilian Phone: +55 (85) 98413-6063
 <br/>
-Linkedin: <a href="https://www.linkedin.com/in/tiagoecordeiro">Clique aqui</a>
+LinkedIn: <a href="https://www.linkedin.com/in/tiagoecordeiro">Clique aqui</a>
 
-# Projetos
-Aqui ponho meus estudos e projetos, favor verificar a sessão de repositórios e os repositórios fixados.
+# Projects
+Here, I showcase my studies and projects. Please check the repositories section and the pinned repositories.
