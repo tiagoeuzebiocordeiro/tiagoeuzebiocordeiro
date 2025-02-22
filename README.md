@@ -13,7 +13,7 @@ E-mail: tiagoeuzebiocordeiro.ti@gmail.com
 <br/>
 Brazilian Phone: +55 (85) 98413-6063
 <br/>
-LinkedIn: <a href="https://www.linkedin.com/in/tiagoecordeiro">Clique aqui</a>
+LinkedIn: <a href="https://www.linkedin.com/in/tiagoecordeiro">Click here</a>
 
 # Projects
 Here, I showcase my studies and projects. Please check the repositories section and the pinned repositories.
