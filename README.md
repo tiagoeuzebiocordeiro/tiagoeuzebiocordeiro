@@ -1,7 +1,7 @@
 # About
 Hello, my name is Tiago. I have a degree in Systems Analysis and Development, by Estácio de Sá university.
 <br/>
-I work as a Junior Systems Analyst, focusing on .NET, Angular, and ERP technologies.
+I work as a Mid-level Systems Analyst, focusing on .NET, Angular, and ERP technologies.
 <br/>
 Languages: Portuguese (fluent/native) and English (intermediate).
 
